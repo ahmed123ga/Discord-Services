@@ -1,0 +1,7 @@
+p {
+    color: rgb(241, 241, 241);
+}
+
+.right-aligned {
+    direction: rtl;
+}
